@@ -1,0 +1,17 @@
+Lets create a full working calculator using reducer
+
+Lets download the design of calculator
+
+
+https://codepen.io/gambhirsharma/pen/ExwBKop
+
+Psuedo Code
+
+LeftValue Operator RightValue
+
+1 + 2
+
+5 * 5
+
+400 / 2
+
